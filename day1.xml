@@ -1,0 +1,46 @@
+<employeetable>
+
+
+<employee id="1">
+<id> 1020 </id>
+<name> ahsan </name>
+<salary> 500,000 </salary>
+<joiningdate> 20/05/2022 </joiningdate>
+<position> CEO </position> 
+</employee>
+
+
+<employee id="2">
+<id> 1020 </id>
+<name> tameem </name>
+<salary> 300,000 </salary>
+<joiningdate> 20/05/2022 </joiningdate> 
+<position> MD </position> 
+</employee>
+
+
+<employee id="3">
+<id> 1020 </id>
+<name> sohail </name>
+<salary> 200,000 </salary>
+<joiningdate> 20/05/2022 </joiningdate> 
+<position> manager </position> 
+</employee>
+
+<employee id="4">
+<id> 1020 </id>
+<name> abdullah </name>
+<salary> 150,000 </salary>
+<joiningdate> 20/05/2022 </joiningdate> 
+<position> manager </position> 
+</employee>
+
+<employee id="5">
+<id> 1020 </id>
+<name> ahmed </name>
+<salary> 100,000 </salary>
+<joiningdate> 20/05/2022 </joiningdate> 
+<position> manager </position> 
+</employee>
+
+</employeetable>
